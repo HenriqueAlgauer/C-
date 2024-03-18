@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioCODE\\alura\\C#\\primeiro projeto\\C#.csproj": {}
+    "D:\\Visual Studio Code\\alura\\C-\\primeiro projeto\\C#.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioCODE\\alura\\C#\\primeiro projeto\\C#.csproj": {
+    "D:\\Visual Studio Code\\alura\\C-\\primeiro projeto\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioCODE\\alura\\C#\\primeiro projeto\\C#.csproj",
+        "projectUniqueName": "D:\\Visual Studio Code\\alura\\C-\\primeiro projeto\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\VisualStudioCODE\\alura\\C#\\primeiro projeto\\C#.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioCODE\\alura\\C#\\primeiro projeto\\obj\\",
+        "projectPath": "D:\\Visual Studio Code\\alura\\C-\\primeiro projeto\\C#.csproj",
+        "packagesPath": "C:\\Users\\pia\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Code\\alura\\C-\\primeiro projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

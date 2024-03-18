@@ -112,7 +112,7 @@ void ExibirMenu()
         case 4:
             MostrarAvaliacao(); break;
         case 0:
-            Console.WriteLine("0"); break;
+            return; break;
         default:
             Console.WriteLine("Opção inválida"); break;
     }

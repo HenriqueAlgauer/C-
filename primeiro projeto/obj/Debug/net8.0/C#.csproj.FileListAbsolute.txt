@@ -27,3 +27,18 @@ D:\VisualStudioCODE\alura\C#\primeiro projeto\obj\Debug\net8.0\C#.pdb
 D:\VisualStudioCODE\alura\C#\primeiro projeto\obj\Debug\net8.0\C#.genruntimeconfig.cache
 D:\VisualStudioCODE\alura\C#\primeiro projeto\obj\Debug\net8.0\ref\C#.dll
 D:\VisualStudioCODE\alura\C#\primeiro projeto\obj\Debug\net8.0\C#.sourcelink.json
+D:\Visual Studio Code\alura\C-\primeiro projeto\bin\Debug\net8.0\C#.exe
+D:\Visual Studio Code\alura\C-\primeiro projeto\bin\Debug\net8.0\C#.deps.json
+D:\Visual Studio Code\alura\C-\primeiro projeto\bin\Debug\net8.0\C#.runtimeconfig.json
+D:\Visual Studio Code\alura\C-\primeiro projeto\bin\Debug\net8.0\C#.dll
+D:\Visual Studio Code\alura\C-\primeiro projeto\bin\Debug\net8.0\C#.pdb
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.AssemblyInfo.cs
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.sourcelink.json
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.dll
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\refint\C#.dll
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.pdb
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\C#.genruntimeconfig.cache
+D:\Visual Studio Code\alura\C-\primeiro projeto\obj\Debug\net8.0\ref\C#.dll
